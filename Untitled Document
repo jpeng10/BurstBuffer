@@ -1,0 +1,5 @@
+
+
+../configure --with-ross=/home/pj/projects/ROSS-master/install --prefix=/home/pj/projects/codes-base-0.4.1/install CC=mpicc
+
+../configure --with-codes-base=/home/pj/projects/codes-base-0.4.1/install --prefix=/home/pj/projects/codes-net-0.4.0/install CC=mpicc
