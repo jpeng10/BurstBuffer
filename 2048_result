@@ -1,0 +1,343 @@
+un Jan 31 17:00:27 2016
+
+ROSS Revision: GITDIR-NOTFOUND
+
+tw_net_start: Found world size to be 1 
+
+ROSS Core Configuration: 
+	Total Nodes                                                  1
+	Total Processors                                   [Nodes (1) x PE_per_Node (1)] 1
+	Total KPs                                          [Nodes (1) x KPs (16)] 16
+	Total LPs                                                19584
+	Simulation End Time                                31536000000000000.00
+	LP-to-PE Mapping                                   model defined
+
+
+ROSS Event Memory Allocation:
+	Model events                                           5013505
+	Network events                                           50000
+	Total events                                           5063504
+
+*** START SEQUENTIAL SIMULATION ***
+
+*** END SIMULATION ***
+
+Server 0 time = 2.518267 seconds.
+Server 1 time = 2.519321 seconds.
+Server 2 time = 2.519448 seconds.
+Server 3 time = 2.519979 seconds.
+Server 4 time = 2.519976 seconds.
+Server 5 time = 2.520332 seconds.
+Server 6 time = 2.520683 seconds.
+Server 7 time = 2.521434 seconds.
+Server 8 time = 2.518267 seconds.
+Server 9 time = 2.519321 seconds.
+Server 10 time = 2.519448 seconds.
+Server 11 time = 2.519979 seconds.
+Server 12 time = 2.519976 seconds.
+Server 13 time = 2.520332 seconds.
+Server 14 time = 2.520683 seconds.
+Server 15 time = 2.521434 seconds.
+Server 16 time = 2.518267 seconds.
+Server 17 time = 2.519321 seconds.
+Server 18 time = 2.519448 seconds.
+Server 19 time = 2.519979 seconds.
+Server 20 time = 2.519976 seconds.
+Server 21 time = 2.520332 seconds.
+Server 22 time = 2.520683 seconds.
+Server 23 time = 2.521434 seconds.
+Server 24 time = 2.518267 seconds.
+Server 25 time = 2.519321 seconds.
+Server 26 time = 2.519448 seconds.
+Server 27 time = 2.519979 seconds.
+Server 28 time = 2.519976 seconds.
+Server 29 time = 2.520332 seconds.
+Server 30 time = 2.520683 seconds.
+Server 31 time = 2.521434 seconds.
+Server 32 time = 2.518267 seconds.
+Server 33 time = 2.519321 seconds.
+Server 34 time = 2.519448 seconds.
+Server 35 time = 2.519979 seconds.
+Server 36 time = 2.519976 seconds.
+Server 37 time = 2.520332 seconds.
+Server 38 time = 2.520683 seconds.
+Server 39 time = 2.521434 seconds.
+Server 40 time = 2.518267 seconds.
+Server 41 time = 2.519321 seconds.
+Server 42 time = 2.519448 seconds.
+Server 43 time = 2.519979 seconds.
+Server 44 time = 2.519976 seconds.
+Server 45 time = 2.520332 seconds.
+Server 46 time = 2.520683 seconds.
+Server 47 time = 2.521434 seconds.
+Server 48 time = 2.518267 seconds.
+Server 49 time = 2.519321 seconds.
+Server 50 time = 2.519448 seconds.
+Server 51 time = 2.519979 seconds.
+Server 52 time = 2.519976 seconds.
+Server 53 time = 2.520332 seconds.
+Server 54 time = 2.520683 seconds.
+Server 55 time = 2.521434 seconds.
+Server 56 time = 2.518267 seconds.
+Server 57 time = 2.519321 seconds.
+Server 58 time = 2.519448 seconds.
+Server 59 time = 2.519979 seconds.
+Server 60 time = 2.519976 seconds.
+Server 61 time = 2.520332 seconds.
+Server 62 time = 2.520683 seconds.
+Server 63 time = 2.521434 seconds.
+Server 64 time = 2.518267 seconds.
+Server 65 time = 2.519321 seconds.
+Server 66 time = 2.519448 seconds.
+Server 67 time = 2.519979 seconds.
+Server 68 time = 2.519976 seconds.
+Server 69 time = 2.520332 seconds.
+Server 70 time = 2.520683 seconds.
+Server 71 time = 2.521434 seconds.
+Server 72 time = 2.518267 seconds.
+Server 73 time = 2.519321 seconds.
+Server 74 time = 2.519448 seconds.
+Server 75 time = 2.519979 seconds.
+Server 76 time = 2.519976 seconds.
+Server 77 time = 2.520332 seconds.
+Server 78 time = 2.520683 seconds.
+Server 79 time = 2.521434 seconds.
+Server 80 time = 2.518267 seconds.
+Server 81 time = 2.519321 seconds.
+Server 82 time = 2.519448 seconds.
+Server 83 time = 2.519979 seconds.
+Server 84 time = 2.519976 seconds.
+Server 85 time = 2.520332 seconds.
+Server 86 time = 2.520683 seconds.
+Server 87 time = 2.521434 seconds.
+Server 88 time = 2.518267 seconds.
+Server 89 time = 2.519321 seconds.
+Server 90 time = 2.519448 seconds.
+Server 91 time = 2.519979 seconds.
+Server 92 time = 2.519976 seconds.
+Server 93 time = 2.520332 seconds.
+Server 94 time = 2.520683 seconds.
+Server 95 time = 2.521434 seconds.
+Server 96 time = 2.518267 seconds.
+Server 97 time = 2.519321 seconds.
+Server 98 time = 2.519448 seconds.
+Server 99 time = 2.519979 seconds.
+Server 100 time = 2.519976 seconds.
+Server 101 time = 2.520332 seconds.
+Server 102 time = 2.520683 seconds.
+Server 103 time = 2.521434 seconds.
+Server 104 time = 2.518267 seconds.
+Server 105 time = 2.519321 seconds.
+Server 106 time = 2.519448 seconds.
+Server 107 time = 2.519979 seconds.
+Server 108 time = 2.519976 seconds.
+Server 109 time = 2.520332 seconds.
+Server 110 time = 2.520683 seconds.
+Server 111 time = 2.521434 seconds.
+Server 112 time = 2.518267 seconds.
+Server 113 time = 2.519321 seconds.
+Server 114 time = 2.519448 seconds.
+Server 115 time = 2.519979 seconds.
+Server 116 time = 2.519976 seconds.
+Server 117 time = 2.520332 seconds.
+Server 118 time = 2.520683 seconds.
+Server 119 time = 2.521434 seconds.
+Server 120 time = 2.518267 seconds.
+Server 121 time = 2.519321 seconds.
+Server 122 time = 2.519448 seconds.
+Server 123 time = 2.519979 seconds.
+Server 124 time = 2.519976 seconds.
+Server 125 time = 2.520332 seconds.
+Server 126 time = 2.520683 seconds.
+Server 127 time = 2.521434 seconds.
+Server 128 time = 2.518267 seconds.
+Server 129 time = 2.519321 seconds.
+Server 130 time = 2.519448 seconds.
+Server 131 time = 2.519979 seconds.
+Server 132 time = 2.519976 seconds.
+Server 133 time = 2.520332 seconds.
+Server 134 time = 2.520683 seconds.
+Server 135 time = 2.521434 seconds.
+Server 136 time = 2.518267 seconds.
+Server 137 time = 2.519321 seconds.
+Server 138 time = 2.519448 seconds.
+Server 139 time = 2.519979 seconds.
+Server 140 time = 2.519976 seconds.
+Server 141 time = 2.520332 seconds.
+Server 142 time = 2.520683 seconds.
+Server 143 time = 2.521434 seconds.
+Server 144 time = 2.518267 seconds.
+Server 145 time = 2.519321 seconds.
+Server 146 time = 2.519448 seconds.
+Server 147 time = 2.519979 seconds.
+Server 148 time = 2.519976 seconds.
+Server 149 time = 2.520332 seconds.
+Server 150 time = 2.520683 seconds.
+Server 151 time = 2.521434 seconds.
+Server 152 time = 2.518267 seconds.
+Server 153 time = 2.519321 seconds.
+Server 154 time = 2.519448 seconds.
+Server 155 time = 2.519979 seconds.
+Server 156 time = 2.519976 seconds.
+Server 157 time = 2.520332 seconds.
+Server 158 time = 2.520683 seconds.
+Server 159 time = 2.521434 seconds.
+Server 160 time = 2.518267 seconds.
+Server 161 time = 2.519321 seconds.
+Server 162 time = 2.519448 seconds.
+Server 163 time = 2.519979 seconds.
+Server 164 time = 2.519976 seconds.
+Server 165 time = 2.520332 seconds.
+Server 166 time = 2.520683 seconds.
+Server 167 time = 2.521434 seconds.
+Server 168 time = 2.518267 seconds.
+Server 169 time = 2.519321 seconds.
+Server 170 time = 2.519448 seconds.
+Server 171 time = 2.519979 seconds.
+Server 172 time = 2.519976 seconds.
+Server 173 time = 2.520332 seconds.
+Server 174 time = 2.520683 seconds.
+Server 175 time = 2.521434 seconds.
+Server 176 time = 2.518267 seconds.
+Server 177 time = 2.519321 seconds.
+Server 178 time = 2.519448 seconds.
+Server 179 time = 2.519979 seconds.
+Server 180 time = 2.519976 seconds.
+Server 181 time = 2.520332 seconds.
+Server 182 time = 2.520683 seconds.
+Server 183 time = 2.521434 seconds.
+Server 184 time = 2.518267 seconds.
+Server 185 time = 2.519321 seconds.
+Server 186 time = 2.519448 seconds.
+Server 187 time = 2.519979 seconds.
+Server 188 time = 2.519976 seconds.
+Server 189 time = 2.520332 seconds.
+Server 190 time = 2.520683 seconds.
+Server 191 time = 2.521434 seconds.
+Server 192 time = 2.518267 seconds.
+Server 193 time = 2.519321 seconds.
+Server 194 time = 2.519448 seconds.
+Server 195 time = 2.519979 seconds.
+Server 196 time = 2.519976 seconds.
+Server 197 time = 2.520332 seconds.
+Server 198 time = 2.520683 seconds.
+Server 199 time = 2.521434 seconds.
+Server 200 time = 2.518267 seconds.
+Server 201 time = 2.519321 seconds.
+Server 202 time = 2.519448 seconds.
+Server 203 time = 2.519979 seconds.
+Server 204 time = 2.519976 seconds.
+Server 205 time = 2.520332 seconds.
+Server 206 time = 2.520683 seconds.
+Server 207 time = 2.521434 seconds.
+Server 208 time = 2.518267 seconds.
+Server 209 time = 2.519321 seconds.
+Server 210 time = 2.519448 seconds.
+Server 211 time = 2.519979 seconds.
+Server 212 time = 2.519976 seconds.
+Server 213 time = 2.520332 seconds.
+Server 214 time = 2.520683 seconds.
+Server 215 time = 2.521434 seconds.
+Server 216 time = 2.518267 seconds.
+Server 217 time = 2.519321 seconds.
+Server 218 time = 2.519448 seconds.
+Server 219 time = 2.519979 seconds.
+Server 220 time = 2.519976 seconds.
+Server 221 time = 2.520332 seconds.
+Server 222 time = 2.520683 seconds.
+Server 223 time = 2.521434 seconds.
+Server 224 time = 2.518267 seconds.
+Server 225 time = 2.519321 seconds.
+Server 226 time = 2.519448 seconds.
+Server 227 time = 2.519979 seconds.
+Server 228 time = 2.519976 seconds.
+Server 229 time = 2.520332 seconds.
+Server 230 time = 2.520683 seconds.
+Server 231 time = 2.521434 seconds.
+Server 232 time = 2.518267 seconds.
+Server 233 time = 2.519321 seconds.
+Server 234 time = 2.519448 seconds.
+Server 235 time = 2.519979 seconds.
+Server 236 time = 2.519976 seconds.
+Server 237 time = 2.520332 seconds.
+Server 238 time = 2.520683 seconds.
+Server 239 time = 2.521434 seconds.
+Server 240 time = 2.518267 seconds.
+Server 241 time = 2.519321 seconds.
+Server 242 time = 2.519448 seconds.
+Server 243 time = 2.519979 seconds.
+Server 244 time = 2.519976 seconds.
+Server 245 time = 2.520332 seconds.
+Server 246 time = 2.520683 seconds.
+Server 247 time = 2.521434 seconds.
+Server 248 time = 2.518267 seconds.
+Server 249 time = 2.519321 seconds.
+Server 250 time = 2.519448 seconds.
+Server 251 time = 2.519979 seconds.
+Server 252 time = 2.519976 seconds.
+Server 253 time = 2.520332 seconds.
+Server 254 time = 2.520683 seconds.
+Server 255 time = 2.521434 seconds.
+
+	: Running Time = 210.4028 seconds
+
+TW Library Statistics:
+	Total Events Processed                               408153210
+	Events Aborted (part of RBs)                                 0
+	Events Rolled Back                                           0
+	Event Ties Detected in PE Queues                            12
+	Efficiency                                              100.00 %
+	Total Remote (shared mem) Events Processed                   0
+	Percent Remote Events                                     0.00 %
+	Total Remote (network) Events Processed                      0
+	Percent Remote Events                                     0.00 %
+
+	Total Roll Backs                                             0
+	Primary Roll Backs                                           0
+	Secondary Roll Backs                                         0
+	Fossil Collect Attempts                                      0
+	Total GVT Computations                                       0
+
+	Net Events Processed                                 408153210
+	Event Rate (events/sec)                              1939865.5
+	Total Events Scheduled Past End Time                         0
+
+TW Memory Statistics:
+	Events Allocated                                       5063505
+	Memory Allocated                                       2069205
+	Memory Wasted                                              453
+
+TW Data Structure sizes in bytes (sizeof):
+	PE struct                                                  592
+	KP struct                                                  104
+	LP struct                                                   88
+	LP Model struct                                             56
+	LP RNGs                                                     80
+	Total LP                                                   224
+	Event struct                                               120
+	Event struct with Model                                    416
+
+TW Clock Cycle Statistics (MAX values in secs at 1.0000 GHz):
+	Priority Queue (enq/deq)                                0.0000
+	AVL Tree (insert/delete)                                0.0000
+	LZ4 (de)compression                                     0.0000
+	Buddy system                                            0.0000
+	Event Processing                                        0.0000
+	Event Cancel                                            0.0000
+	Event Abort                                             0.0000
+
+	GVT                                                     0.0000
+	Fossil Collect                                          0.0000
+	Primary Rollbacks                                       0.0000
+	Network Read                                            0.0000
+	Total Time (Note: Using Running Time above for Speedup)      0.0000
+
+TW GVT Statistics: MPI AllReduce
+	GVT Interval                                                16
+	Batch Size                                                  16
+
+	Forced GVT                                                   0
+	Total GVT Computations                                       0
+	Total All Reduce Calls                                       0
+	Average Reduction / GVT                                   -nan
+
